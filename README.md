@@ -1,8 +1,8 @@
 # StudyRepo
-# My awesome project
+
+## My awesome project
+## My super project
 Учебный репозиторий для освоения технологии
 
 Данный проект создан в исключительно образовательных целях - освоение технологии работы
 с Git с помощью графического интерфейса IntelliJ IDEA
-
-#  Изменения в локальной ветке refactoring_README
